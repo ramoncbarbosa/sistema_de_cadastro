@@ -4,5 +4,5 @@
 
 Tecnologias Usadas:
 ```
-> Java, SQL e Spring boot 3
+Java, SQL e Spring boot 3
 ```
